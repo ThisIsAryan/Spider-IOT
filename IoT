@@ -1,5 +1,7 @@
 # Spider-IOT
-Task one code
+Task one code along with explanation
+Board used- nodeMCU(ESP8266)
+Sensor used- ultrasonic sensor
 
   #include <ESP8266WiFi.h>
   #include <ThingSpeak.h> //cloud service library
